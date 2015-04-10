@@ -33,7 +33,7 @@ void factorial_sum_non_overflow(int n){
 // a snack way of doing it, using the property that 25! ends with 6 zeros,
 // 25! contains six 5s, 5,10,15,20,25(25 contains two 5) and many 2s,
 // you times them up and you get six 10s, which makes 6 zeros
-void factorial_sum_non_overflow_snack(int n){
+void factorial_sum_non_overflow_knack(int n){
 	int a = 1,s = 0;
 	if(n > 25)
 		n = 25;
