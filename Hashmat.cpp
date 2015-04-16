@@ -1,9 +1,8 @@
-#include<stdio.h>
+#include<math.h>
 #include<iostream>
 
 int main(){
-	char c;
-	while((c = getchar()) != EOF){
-		
-	}
+	int a,b;
+	while(std::cin >> a >> b)
+		std::cout << abs(a-b) << '\n';
 }
