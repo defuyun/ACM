@@ -1,8 +1,7 @@
-#include<stdio.h>
+#include<iostream>
 
 int main(){
-	int a;
-	scanf("%d",&a); // failed, a remains unchanged
-	printf("%d\n",a);
-	return 0;
+	char s[100] = "123.17U are dump";
+	double d = atof(s);
+	std::cout << d;
 }
