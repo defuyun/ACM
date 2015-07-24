@@ -1,7 +1,9 @@
 #include<iostream>
+#include<string>
+#include<cstring>
 
 int main(){
-	char s[100] = "123.17U are dump";
-	double d = atof(s);
-	std::cout << d;
+	std::string in;
+	std::getline(std::cin,in);
+	std::cout << in;
 }
