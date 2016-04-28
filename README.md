@@ -16,4 +16,8 @@ Quesitions worth revisiting:<br>
 13. train_reform.cpp ---Chapter 6<br>
 
 Questions from leetcode:<br>
-3,4,6,10,12,29,30,31,33,34,35,41,44,45,56,57,72,73,75,76
+3,4,6,10,12, <br>
+29,30,31,33,34, <br>
+35,41,44,45,56, <br>
+57,72,73,75,76, <br>
+81,84,85,87,89 <br>
